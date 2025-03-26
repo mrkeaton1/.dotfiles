@@ -127,6 +127,9 @@ alias grep='grep --color=auto'
 
 # alias clip='| wl-copy'
 
+alias op='konsoleprofile "colors=Dark Pastels"'
+alias tp='konsoleprofile "colors=Dark Pastels - Transparent"'
+
 # python virtual environments
 alias vnvim='source ~/.virtualenvs/pyneovim/bin/activate'
 alias benv='source ~/.virtualenvs/base_env/bin/activate' # basic environment for quick use and testing
