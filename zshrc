@@ -87,7 +87,7 @@ plugins=(
   archlinux
   vi-mode
   zsh-syntax-highlighting
-  zsh-autosuggestions
+  # zsh-autosuggestions
 )
 
 source $ZSH/oh-my-zsh.sh
